@@ -13,7 +13,7 @@
         "fideloper/proxy": "^4.0",
         "jenssegers/date": "^3.5",
         "konekt/pdf-invoice": "^1.5",
-        "laravel/framework": "5.8.*",
+        "laravel/framework": "6.18.*",
         "laravel/tinker": "^1.0",
         "pusher/pusher-php-server": "^4.0",
         "rachidlaasri/laravel-installer": "^4.0",
